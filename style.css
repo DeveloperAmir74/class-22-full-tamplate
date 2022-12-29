@@ -1,0 +1,164 @@
+/* nav-section */
+
+img {
+    width: 100%;
+}
+
+/* banner-section */
+
+.banner-section {
+    background-color: #d4d4d926;
+    height: 400px;
+}
+
+.banner-img img {
+    margin-left: 170px;
+}
+
+.banner-btn-color {
+    color: white;
+    background-color: #8490ff;
+}
+
+.banner-btn-color:hover {
+    background-color: #f1c40f;
+    color: black;
+}
+
+/* about-section */
+
+.about-img {
+    height: 300px;
+    margin: auto 120px;
+}
+
+.about-btn-color {
+    background-color: #8490ff;
+    color: white;
+}
+
+/* count-section */
+
+.count-section {
+    background-color: #8490ff;
+    height: 300px;
+}
+
+.count-text {
+    margin-top: -inherit;
+}
+
+/* card-seciton */
+
+.c-btn1 {
+    color: #d3d4dd;
+    background-color: rgb(203, 212, 219);
+}
+
+.count-text {
+    margin-top: 50px;
+    height: 30%;
+}
+
+.card-item:hover {
+    box-shadow: 2px 0px 45px rgba(14, 63, 211, 0.652);
+}
+
+.card-hover1:hover {
+    background-color: #e4ba22;
+    color: white;
+}
+
+.card-hover3:hover {
+    background-color: #2c3e50;
+    color: white;
+}
+
+.card-hover1 h3 {
+    background-color: red;
+    color: #8490ff;
+    display: inline;
+    padding: 1%;
+    border-radius: 50%;
+}
+
+.count-text h2 {
+    background-color: #f2f0eb83;
+    color: black;
+    display: inline;
+    padding: 2%;
+    border-radius: 50%;
+}
+
+.one:hover {
+    color: red;
+    font-size: 20px;
+    background-color: #171d0d;
+}
+
+/* card-2 section */
+
+.card {
+    height: 400px;
+}
+
+.card2-section {
+    background-color: #ffffffff;
+    height: 500px;
+}
+
+a .card2-btn-shadow {
+    box-shadow: 5xp 5px 30px rgb(156, 130, 130);
+}
+
+.card2-shadow:hover {
+    box-shadow: 3px 5px 40px rgba(199, 182, 182, 0.763);
+}
+
+/* from-section */
+
+textarea#exampleFormControlTextarea1 {
+    transform: translate(10px, 10px);
+    height: 150px;
+}
+
+.form-div1:hover {
+    box-shadow: 5px 5px 30px rgba(98, 121, 223, 0.851);
+}
+
+h5.text-center6 {
+    transform: translate(0px, -18px);
+}
+
+button.btn.btn-outline-dark.w-25.mt-lg-5.btn {
+    transform: translate(200px, 10px);
+}
+
+.btn4 {
+    background-color: #6278df;
+    color: white;
+    font-weight: 900;
+}
+
+.btn4:hover {
+    background-color: white;
+    color: rgba(98, 121, 223, 0.938);
+    font-weight: 900;
+    box-shadow: 4px 5px 25px rgba(98, 121, 223, 0.938);
+}
+
+/* footer-section */
+
+.footer-text {
+    background-color: black;
+    color: white;
+}
+
+.footer-text:hover {
+    background-color: #e67e22;
+    color: white;
+}
+
+.one-p {
+    border-radius: 5px 5px 4px rgb(116, 99, 99);
+}
